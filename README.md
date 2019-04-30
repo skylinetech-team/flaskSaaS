@@ -6,6 +6,8 @@ A fork of [Max Halford's](https://github.com/MaxHalford) [flask-boilerplate](htt
 
 If you're here because of Siraj's [video](https://www.youtube.com/watch?v=NzmoPqte4V4), welcome!
 
+A fork of Max Halford's flask-boilerplate and https://github.com/alectrocute/flaskSaaS/edit/master/README.md
+
 ## Features
 
 - [x] User account sign up, sign in, password reset, all through asynchronous email confirmation.
